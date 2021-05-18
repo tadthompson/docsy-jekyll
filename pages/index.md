@@ -1,5 +1,4 @@
 ---
-layout: home
 title: Docsy Jekyll Theme
 permalink: /
 ---
